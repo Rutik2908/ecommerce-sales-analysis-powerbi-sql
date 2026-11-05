@@ -52,9 +52,9 @@ images/          dashboard screenshots
 
 Three pages: **Executive Overview** (KPI cards), **Sales Analysis** (region, market, monthly trend, category) and **Product & Customer Insights** (top products, top customers, profit by sub-category, segment analysis). Slicers for year, market and category on every page.
 
-![Executive Overview](images/executive_overview.png)
-![Sales Analysis](images/sales_analysis.png)
-![Product and Customer Insights](images/product_customer_insights.png)
+![Executive Overview](executive_overview.png)
+![Sales Analysis](sales_analysis.png)
+![Product and Customer Insights](product_customer_insights.png)
 
 ## How to run the SQL
 
